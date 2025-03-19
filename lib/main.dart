@@ -7,7 +7,7 @@ import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'provider/list_menu.dart';
-
+//build/app/outputs/flutter-apk/app-release.apk
 void main() {
   runApp(const MyApp());
 }
